@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: rgb(122, 245, 237);
+    background: linear-gradient(90deg, rgba(122, 245, 237, 1) 5%, rgba(245, 174, 81, 1) 31%, rgba(238, 240, 119, 1) 58%, rgba(186, 249, 176, 1) 71%, rgba(248, 145, 145, 1) 86%, rgba(239, 63, 191, 1) 97%);
+    font-family: 'Pacifico', cursive;
+}
+
+img {
+    border-radius: 50%;
+    width: 350px;
+    height: 200px;
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 35px;
+}
